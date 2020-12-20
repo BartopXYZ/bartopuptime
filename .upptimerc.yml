@@ -20,7 +20,7 @@ status-website:
   cname: status.bartop.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://https://app.bartop.xyz/assets/loader.svg
+  logoUrl: https://app.bartop.xyz/assets/loader.svg
   name: BartopXYZ
   introTitle: "**BartopXYZ** is a cocktail and drink lookup service that works using the drink in your bar."
   introMessage: This page allows you to see the uptime of our various systems and will report any issues that may be occuring at this point in time.

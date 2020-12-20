@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-database",
     "status": "down",
-    "uptime": "1.76%",
-    "uptimeDay": "1.76%",
-    "uptimeWeek": "1.76%",
-    "uptimeMonth": "1.76%",
-    "uptimeYear": "1.76%",
+    "uptime": "0.56%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.56%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "0.56%",
     "time": 638,
     "timeDay": 638,
     "timeWeek": 638,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2020-12-20": 4
+      "2020-12-20": 11
     }
   },
   {

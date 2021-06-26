@@ -1,7 +1,7 @@
 url: $DATABASE_URL
 status: up
 code: 200
-responseTime: 231
-lastUpdated: 2021-06-25T23:03:56.744Z
+responseTime: 1145
+lastUpdated: 2021-06-26T23:03:47.484Z
 startTime: Sun Dec 20 2020 12:15:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
